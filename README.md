@@ -1,6 +1,7 @@
 # HardnessMapDesign
 
-Code for "Deep Learning Virtual Indenter Maps Nanoscale Hardness Rapidly, Non-destructively, Revealing Mechanism, and Enhancing Bioinspired Design "
+Code for "Deep Learning Virtual Indenter Maps Nanoscale Hardness Rapidly, Non-destructively, Revealing Mechanism, and Enhancing Bioinspired Design"
+
 Reference: A.J. Lew, C.A. Stifler, A. Cantamessa, A. Tits, D. Ruffoni, P.U.P.A. Gilbert, M.J. Buehler, Deep Learning Virtual Indenter Maps Nanoscale Hardness Rapidly, Non-destructively, Revealing Mechanism, and Enhancing Bioinspired Design, Matter, 2023
 
 1.) Setup environment with: conda env create -f environment.yml
